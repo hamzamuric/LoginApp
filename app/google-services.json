@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "642303872016",
+    "firebase_url": "https://loginapp-2cb97.firebaseio.com",
+    "project_id": "loginapp-2cb97",
+    "storage_bucket": "loginapp-2cb97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642303872016:android:fa036b6b3728d14d",
+        "android_client_info": {
+          "package_name": "com.example.hamza.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642303872016-r3ebbn38cmotni3uof7rnuphfto2k8mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIlDQ2iBQLRqu73ZDDtARxU9s_QHDIErY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
