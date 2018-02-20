@@ -43,6 +43,7 @@
             android:text="Register" />
 
         <TextView
+            android:paddingTop="30dp"
             android:textAlignment="center"
             android:text="Already registered? Sign in here"
             android:id="@+id/textViewSigning"
