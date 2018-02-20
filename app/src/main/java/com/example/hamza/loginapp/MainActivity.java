@@ -36,10 +36,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         progressDialog = new ProgressDialog(this);
 
-        buttonRegister = (Button) findViewById(R.id.buttonRegister);
-        editTextEmail = (EditText) findViewById(R.id.editTextEmail);
-        editTextPassword = (EditText) findViewById(R.id.editTextPassword);
-        textViewSigning = (TextView) findViewById(R.id.textViewSigning);
+        buttonRegister = findViewById(R.id.buttonRegister);
+        editTextEmail = findViewById(R.id.editTextEmail);
+        editTextPassword = findViewById(R.id.editTextPassword);
+        textViewSigning = findViewById(R.id.textViewSigning);
 
         buttonRegister.setOnClickListener(this);
         textViewSigning.setOnClickListener(this);
